@@ -1,2 +1,1 @@
-git_my_example
-==============
+* This is Read Me file example 
